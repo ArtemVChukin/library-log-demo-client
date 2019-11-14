@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ru.alfastrah.library.log</groupId>
-	<artifactId>demo-client</artifactId>
+	<artifactId>log-demo-client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo-client</name>
+	<name>log-demo-client</name>
 	<description>Demo project for Logging library. Client side.</description>
 
 	<properties>
